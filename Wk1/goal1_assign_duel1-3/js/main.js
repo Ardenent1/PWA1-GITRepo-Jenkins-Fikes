@@ -4,8 +4,8 @@
  * PWA1 Wk1 Duel 1
  */
 (function(){
-    //start the fight in console.log window
-    console.log('Ring the bell and let the fight begin!');
+    //start the fight in console.log
+    console.log('FIGHT!');
 //Declare variable player names
     var playerOneName = 'Spiderman';
     var playerTwoName = 'Batman';
@@ -19,7 +19,7 @@
     var playerTwoDamage = 20;
 
 
-//All the above can also be simply two different objects for two players
+//All of the above can also be simply two different objects for two players
     /*
      ex.
      var playerOne = new Object();
@@ -50,7 +50,7 @@
             //show in console log players health
             console.log(playerOneName+': '+playerOneHealth + ' ' + playerTwoName+':'+playerTwoHealth);
 
-            //check who the winner
+            //check who is the winner
             var result = checkWinner();
             console.log(result);
             if (result==='no winner') {
