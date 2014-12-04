@@ -1,6 +1,6 @@
 /*
-     Name:
-     Date:
+     Name:Teresa Fikes
+     Date: 12/3/14
      Class & Section:  PWA1-####
      Comments: "Goal 2: JavaScript Practice"
  */
@@ -349,7 +349,23 @@ console.log('------ MORE Conditionals - Switch ----------');
 			if no age then console.log "No answer"
 ********************************************/
 
-
+var fruit = "Oranges";
+	switch (fruit){
+		case "Oranges":
+			console.log("Oranges are $0.59 a pound.");
+			break;
+		case "Apples":
+			console.log("Apples are $0.32 a pound.");
+			break;
+		case "Bananas":
+			console.log("Banana are $0.48 a pound.");
+			break;
+		case "Cherries":
+			console.log("Cherries are $3.00 a pound.");
+			break;
+		default;
+			console.log("Sorry, we are out of " + fruit + ".");
+	};
 
 /*
 	===============================================
