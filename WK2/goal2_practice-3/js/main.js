@@ -349,26 +349,17 @@ console.log('------ MORE Conditionals - Switch ----------');
 			if no age then console.log "No answer"
 ********************************************/
 
-var fruit = "Oranges";
-	switch (fruit){
-		case "Oranges":
-			console.log("Oranges are $0.59 a pound.");
+var age = 12;
+
+	switch (age){
+		case "13":
+			console.log("Child.");
 			break;
-		case "Apples":
-			console.log("Apples are $0.32 a pound.");
-			break;
-		case "Bananas":
-			console.log("Banana are $0.48 a pound.");
-			break;
-		case "Cherries":
-			console.log("Cherries are $3.00 a pound.");
-			break;
-		case "Mangoes":
-		case "Papayas";
-			console.log("Mangoes and papayas are $2.79 a pound");
+		case "18":
+			console.log("adult.");
 			break;
 		default;
-			console.log("Sorry, we are out of " + fruit + ".");
+			console.log("Sorry,no answer");
 	};
 
 /*
