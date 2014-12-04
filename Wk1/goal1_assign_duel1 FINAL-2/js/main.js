@@ -74,7 +74,7 @@
         {
             result = "You Both Die";//If there is a No Winner, then announce it is a tied game and both players die
         } else if(playerOneHealth<1){
-            result =playerTwoName+" WINS!!!"  
+            result =playerTwoName+"WINS!!!"
             //If playerTwoName wins announce "playerTwoName Wins!"
         } else if (playerTwoHealth<1)
         {
