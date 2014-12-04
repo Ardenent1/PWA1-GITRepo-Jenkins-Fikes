@@ -513,8 +513,36 @@ console.log('------For Loop ----------');
 		b.  create a for loop using the faster method (4 parameters)
 			- in the loop just console.log the values
 ********************************************/
+var arr1 = [1,2,3,4];
+Var arr2 = ['a','b','c','d'];
+	var arr3 = ['Superman','Batman','Wolverine','Iceman'];
+//indexOf()
+//Returns the first (least) index of the element within the array
+//to the specified value, or -1 if none is found.
+	console.log(arr2,indexOf('c'));
+
+//join()
+//Joins all elements of an array into a string.
+
+//pop()
+//Removes the last element from an array and returns that element
+//shift() removes the first element from an array
+	var element = arr1.pop();
+	console.log(element);
+	console.log(arr1);
 
 
+
+//push()
+//Adds one or more elements to the end of an arrau and returns the
+//  lenght if the array
+//unshift() - Adds one or more elements to the front of an array.
+
+//revers()
+//Reverses the order of the elements of an array
+
+//splice()
+//Adds and/or removes 
 
 /*******************************************
     STUDENT ACTIVITY 8: (More Practice):
