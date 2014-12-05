@@ -542,7 +542,7 @@ Var arr2 = ['a','b','c','d'];
 //Reverses the order of the elements of an array
 
 //splice()
-//Adds and/or removes 
+//Adds and/or removes
 
 /*******************************************
     STUDENT ACTIVITY 8: (More Practice):
