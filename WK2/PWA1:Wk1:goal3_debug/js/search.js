@@ -1,7 +1,7 @@
-**/
-Name: Teresa Jenkins Fikes
-Date: 12/4/14
-Assignment: PWA1 Wk 1 goal 3 debug
+/**
+ * Teresa Jenkins Fikes
+ * Duel Fight Game - FINISHED
+ * Date: 12/04/14
 */
 
 // Create privatized scope using a self-executing function
@@ -10,7 +10,7 @@ Assignment: PWA1 Wk 1 goal 3 debug
 	console.log("Is it working?");
 
 // Variable initialization (DO NOT FIX ANY OF THE BELOW VAR's)
-	var resultsDIV = document.getElementById("results"), //Define DOM element for search results (returns the element that has the ID attribute with the specified value)
+	var resultsDIV = document.getElementById("results"); //Define DOM element for search results (returns the element that has the ID attribute with the specified value)
 		searchInput = document.forms[0].search, //Define DOM element for search input (forms collection returns an array of all the forms in the current document, e.g. return the name of the first form in the document (first item in array is index of 0 [0]))
 		currentSearch = '' //Define current search as empty string
 		;
@@ -136,6 +136,4 @@ document.forms[0].onsubmit = function(){//calling the submit event
 // return false is needed for most events - this will be reviewed in upcoming course material
 // THE LINE DIRECTLY BELOW IS CORRECT
 	return false;
-	;
-
-})();
+};
