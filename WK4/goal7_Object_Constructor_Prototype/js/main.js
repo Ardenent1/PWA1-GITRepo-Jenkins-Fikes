@@ -1,6 +1,6 @@
 /*Teresa Jenkins Fikes
 * Date: 12/17/14
-* PWA1: Goal 7:  Course Material 7 (more.Objects - Constructors - Prototypes)
+* PWA1: goal7_assign_objects
 
  */
 

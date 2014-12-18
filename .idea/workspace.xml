@@ -24,24 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="person.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/person.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8684211" vertical-offset="6" max-vertical-offset="750">
-              <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.04385965" vertical-offset="0" max-vertical-offset="684">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,8 +66,8 @@
         <option value="$PROJECT_DIR$/WK3/goal3_assign_debug_v2-4/js/search.js" />
         <option value="$PROJECT_DIR$/WK3/Wk 3 Midterm/goal6_assign_midterm/js/main.js" />
         <option value="$PROJECT_DIR$/WK4/goal5_assign_validation/js/validate.js" />
-        <option value="$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/main.js" />
         <option value="$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/person.js" />
+        <option value="$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/main.js" />
       </list>
     </option>
   </component>
@@ -767,20 +755,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/person.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8684211" vertical-offset="6" max-vertical-offset="750">
           <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WK4/goal7_Object_Constructor_Prototype/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04385965" vertical-offset="0" max-vertical-offset="684">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
           <folding />
         </state>
       </provider>
