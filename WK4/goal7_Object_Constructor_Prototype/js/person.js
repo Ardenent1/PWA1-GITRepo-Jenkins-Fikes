@@ -12,7 +12,7 @@
 //console.log(Window.Person);
 //define all possible job choices and actions for all the Person instances
     Person.jobs = ["Developer", "Butcher", "student", "Cashier"];
-    Person.actions = ["Developing Websites", "eating", "Counting money", "working"];//Displays various jobs to the web page
+    Person.actions = ["Developing Websites", "Counting money", "working"];//Displays various jobs to the web page
 //constructor function
     function Person(name,row){ //pass parameters
         console.log("Person created: ", name);
