@@ -1,7 +1,8 @@
-/*
-     Developed by the JavaScript team at Fullsail
-     Date: 1306
+/*Teresa Jenkins Fikes
+* WK 3: goal5 assignment validation
+* 12/18/14
 */
+
 
 (function(){
 
